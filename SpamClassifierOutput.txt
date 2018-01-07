@@ -1,0 +1,85 @@
+%run "C:/Users/surya/Desktop/SpamClassifier.py"
+                                                   class  \
+C:/Users/surya/Desktop/DecemberBreak/Data Scien...   ham   
+C:/Users/surya/Desktop/DecemberBreak/Data Scien...   ham   
+C:/Users/surya/Desktop/DecemberBreak/Data Scien...   ham   
+C:/Users/surya/Desktop/DecemberBreak/Data Scien...   ham   
+C:/Users/surya/Desktop/DecemberBreak/Data Scien...   ham   
+
+                                                                                              message  
+C:/Users/surya/Desktop/DecemberBreak/Data Scien...  Man killed 'trying to surf' on Tube train \n\n...  
+C:/Users/surya/Desktop/DecemberBreak/Data Scien...  Hi Gianni,\n\n\n\nA very good resource for thi...  
+C:/Users/surya/Desktop/DecemberBreak/Data Scien...  Gianni Ponzi wrote:\n\n> I have a prob when tr...  
+C:/Users/surya/Desktop/DecemberBreak/Data Scien...  Neale Pickett <neale@woozle.org> writes:\n\n\n...  
+C:/Users/surya/Desktop/DecemberBreak/Data Scien...  \n\nHi,\n\n\n\nI think you need to give us a l...  
+  (0, 20104)    1
+  (0, 15629)    1
+  (0, 30882)    1
+  (0, 50553)    1
+  (0, 36099)    1
+  (0, 44217)    1
+  (0, 58467)    1
+  (0, 51216)    1
+  (0, 10966)    1
+  (0, 47038)    1
+  (0, 46816)    1
+  (0, 54656)    1
+  (0, 43219)    2
+  (0, 16635)    1
+  (0, 38953)    1
+  (0, 14434)    1
+  (0, 16777)    1
+  (0, 36134)    1
+  (0, 35030)    1
+  (0, 46819)    1
+  (0, 12870)    1
+  (0, 58727)    1
+  (0, 22787)    1
+  (0, 22197)    2
+  (0, 53337)    2
+  :     :
+  (2999, 12870) 2
+  (2999, 53337) 1
+  (2999, 24806) 2
+  (2999, 28034) 1
+  (2999, 10697) 1
+  (2999, 40368) 2
+  (2999, 40892) 4
+  (2999, 15189) 1
+  (2999, 39016) 1
+  (2999, 30375) 5
+  (2999, 58736) 1
+  (2999, 26143) 2
+  (2999, 55923) 1
+  (2999, 47451) 1
+  (2999, 53220) 12
+  (2999, 10746) 5
+  (2999, 56678) 1
+  (2999, 31369) 6
+  (2999, 27728) 5
+  (2999, 60793) 6
+  (2999, 37734) 1
+  (2999, 40661) 4
+  (2999, 53745) 6
+  (2999, 14755) 1
+  (2999, 28855) 1
+['spam' 'spam' 'spam' ..., 'ham' 'ham' 'ham']
+MultinomialNB(alpha=1.0, class_prior=None, fit_prior=True)
+  (0, 15189)    1
+  (0, 28087)    1
+  (0, 31369)    1
+  (0, 32402)    1
+  (0, 36728)    1
+  (0, 49156)    1
+  (0, 53337)    1
+  (0, 60793)    1
+  (1, 14085)    1
+  (1, 25116)    1
+  (1, 56785)    1
+  (2, 26143)    1
+  (2, 40397)    1
+  (2, 43219)    1
+  (2, 46908)    1
+  (2, 53337)    1
+  (2, 53745)    1
+['ham' 'spam' 'spam']
