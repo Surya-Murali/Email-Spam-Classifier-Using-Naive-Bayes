@@ -40,8 +40,8 @@ def dataFrameFromDirectory(path, classification):
 data = DataFrame({'message': [], 'class': []})
 
 #Including the email details with the spam/ham classification in the dataframe
-data = data.append(dataFrameFromDirectory('C:/Users/surya/Desktop/DecemberBreak/Data Science with Python & R/DataScience/DataScience-Python3/emails/spam', 'spam'))
-data = data.append(dataFrameFromDirectory('C:/Users/surya/Desktop/DecemberBreak/Data Science with Python & R/DataScience/DataScience-Python3/emails/ham', 'ham'))
+data = data.append(dataFrameFromDirectory('C:/Users/surya/Desktop/DecemberBreak/emails/spam', 'spam'))
+data = data.append(dataFrameFromDirectory('C:/Users/surya/Desktop/DecemberBreak/emails/ham', 'ham'))
 
 #Head and the Tail of 'data'
 data.head()
