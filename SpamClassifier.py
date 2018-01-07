@@ -58,8 +58,8 @@ classifier = MultinomialNB()
 classifier.fit(count, target)
 print(classifier)
 
-example = ["Hey. This is John Cena. You can't see me", "Free Viagra boys!!", "Please reply to get this offer"]
-excount = vectoriser.transform(example)
+exampleInput = ["Hey. This is John Cena. You can't see me", "Free Viagra boys!!", "Please reply to get this offer"]
+excount = vectoriser.transform(exampleInput)
 print(excount)
 
 prediction = classifier.predict(excount)
