@@ -1,1 +1,1 @@
-# Email-Spam-Classifier-using-Naive-Bayes
+# Email-Spam-Classifier-Using-Naive-Bayes
