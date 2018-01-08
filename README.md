@@ -9,4 +9,4 @@ and a bunch of emails classified as ['ham'](https://github.com/Surya-Murali/Emai
 
 **Python Libraries used:** pandas, numpy, io, os, CountVectorizer and MultinomialNB from sklearn
 
-The [Spam classifier](https://github.com/Surya-Murali/Email-Spam-Classifier-Using-Naive-Bayes/blob/master/SpamClassifier.py) classifies the given input as a spam / ham. A sample output is found [here.](https://github.com/Surya-Murali/Email-Spam-Classifier-Using-Naive-Bayes/blob/master/SpamClassifierOutput.txt)
+The [Spam classifier](https://github.com/Surya-Murali/Email-Spam-Classifier-Using-Naive-Bayes/blob/master/SpamClassifier.py) classifies the given input as a spam/ham. A sample output is found [here.](https://github.com/Surya-Murali/Email-Spam-Classifier-Using-Naive-Bayes/blob/master/SpamClassifierOutput.txt)
