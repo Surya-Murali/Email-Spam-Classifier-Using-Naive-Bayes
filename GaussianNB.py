@@ -16,4 +16,4 @@ model.fit(features, target)
 predictedOutput = model.predict([[3,2],[1,3]])
 print (predictedOutput)
 
-#Output: ([3,4])
+#Output: ([20 10])
