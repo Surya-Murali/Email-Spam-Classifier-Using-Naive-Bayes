@@ -4,7 +4,7 @@ Naive Bayes is a supervised classification technique based on Bayes' Theorem wit
 
 It is a popular technique for text categorization, judging documents as belonging to one category or the other (such as spam or legitimate, sports or politics, etc.) with word frequencies as features.
 
-###### Goal: Previously unseen records should be assigned a class as accurately as possible
+##### Goal: Previously unseen records should be assigned a class as accurately as possible
 
 * We have a bunch of emails classified as ['spam'](https://github.com/Surya-Murali/Email-Spam-Classifier-Using-Naive-Bayes/tree/master/emails/spam)
 and a bunch of emails classified as ['ham'](https://github.com/Surya-Murali/Email-Spam-Classifier-Using-Naive-Bayes/tree/master/emails/ham)
