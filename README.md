@@ -16,7 +16,7 @@ and a bunch of emails classified as ['ham'](https://github.com/Surya-Murali/Emai
 
 The [Spam classifier](https://github.com/Surya-Murali/Email-Spam-Classifier-Using-Naive-Bayes/blob/master/SpamClassifier.py) classifies the given input as a spam/ham. A sample output is found [here.](https://github.com/Surya-Murali/Email-Spam-Classifier-Using-Naive-Bayes/blob/master/SpamClassifierOutput.txt)
 
-## Some Practical Applications:
+### Some Practical Applications:
 * Direct Marketing
 * Fraud Detection
 * Text Classification
